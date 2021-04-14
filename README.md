@@ -6,7 +6,7 @@ Welcome to the Github repository of An Evolutionary Approach to Interpretable Le
 
 ## Google Colab
 
-[![Open In Colab]](https://drive.google.com/file/d/1w1v76ohEPd7Q87LAbHypwJWrGh7wuj9P/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1w1v76ohEPd7Q87LAbHypwJWrGh7wuj9P/view?usp=sharing)
 
 ## Jupyter Lab/Notebook
 
