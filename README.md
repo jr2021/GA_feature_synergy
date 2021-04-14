@@ -2,4 +2,24 @@
 
 Welcome to the Github repository of An Evolutionary Approach to Interpretable Learning, an article published in The Genetic and Evolutionary Computation Conference (GECCO'21) Companion Proceedings. This article presents an evolutionary framework to derive feature synergy in high-dimensional maching learning prediction problems. 
 
-Please see the interactive demo provided in ```demo.ipynb``` to expiriment with this approach on toy datasets from the ```scikitlearn.datasets``` library.
+# Getting Started
+
+## Google Colab
+
+[![Open In Colab](https://drive.google.com/file/d/1w1v76ohEPd7Q87LAbHypwJWrGh7wuj9P/view?usp=sharing)
+
+## Jupyter Lab/Notebook
+
+Clone the repository
+
+```
+git clone https://github.com/jr2021/GA_feature_synergy.git
+cd demo
+```
+
+Install and run Jupyter Lab
+
+```
+pip install jupyter-lab
+jupyter notebook demo.ipynb
+```
