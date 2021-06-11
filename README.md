@@ -1,11 +1,11 @@
 # An Evolutionary Approach to Interpretable Learning (GECCO'21)
 
-Welcome to the Github repository of An Evolutionary Approach to Interpretable Learning, an article published in The Genetic and Evolutionary Computation Conference (GECCO'21) Companion Proceedings. This article presents an evolutionary framework to derive feature synergy in high-dimensional maching learning prediction problems. 
+Welcome to the Github repository of An Evolutionary Approach to Interpretable Learning, an article published in The Genetic and Evolutionary Computation Conference (GECCO'21) Companion Proceedings. This article presents an evolutionary framework for feature investigation in high-dimensional maching learning prediction problems. 
 
 # Getting Started
 
 ```
-git clone https://github.com/jr2021/GA_feature_synergy.git
+git clone https://github.com/jr2021/GA_feature_investigation.git
 cd demo
 ```
 
