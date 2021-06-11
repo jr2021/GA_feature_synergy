@@ -5,7 +5,7 @@ Welcome to the Github repository of An Evolutionary Approach to Interpretable Le
 # Getting Started
 
 ```
-git clone https://github.com/jr2021/GA_feature_investigation.git
+git clone https://github.com/jr2021/GA_feature_synergy.git
 cd demo
 ```
 
